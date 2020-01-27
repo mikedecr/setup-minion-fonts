@@ -14,7 +14,7 @@ The `reference` folder contains Healy's version, for posterity.
 The script `setup-minion.sh` walks through the setup, but the overview is like so:
 
 1. You need Minion Pro, which you can get by installing [Adobe Acrobat Reader](https://get.adobe.com/reader/).
-2. LCDF TypeTools [here](http://www.lcdf.org/type/) or use (`brew install lcdf-typetools `).
+2. Install LCDF TypeTools [here](http://www.lcdf.org/type/) or use (`brew install lcdf-typetools `).
 3. (Optional) Copy Minion Pro from the Acrobat support directory to your system fonts
 4. Follow the script
 
