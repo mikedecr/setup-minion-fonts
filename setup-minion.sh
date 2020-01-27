@@ -30,7 +30,7 @@ DEST=/users/$(whoami)/Library/TinyTeX/texmf-dist
 DOWNLOAD="curl -L -O"
 
 ## Directories where minion fonts may be found:
-##   I (Mike) preferred to copy the fonts from the App contents 
+##   I (Mike) preferred to copy the fonts from the App contents dir below
 ##   to ~/Library/Fonts, hence the uncommented choice below.
 
 #MINIONSRC=/Applications/Adobe\ Reader.app/Contents/Resources/Resource/Font/
